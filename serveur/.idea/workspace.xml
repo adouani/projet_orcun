@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e982272-1aef-44eb-aec9-5b5b9f3b6304" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/del" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.idea/projet_client.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bs-config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/systemjs-angular-loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/systemjs.config.extras.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/systemjs.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/tslint.json" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="server.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.bowerrc" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/views/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e982272-1aef-44eb-aec9-5b5b9f3b6304" name="Default" comment="" />
+      <created>1492719731655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492719731655</updated>
+      <workItem from="1492719733800" duration="2018000" />
+      <workItem from="1492722902034" duration="1495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3513000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46317512" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/server.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/SubscriptionLog.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/TestMessage.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/TestMessage.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/SubscriptionLoggable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/SubscriptionLog.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/TestScheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/ColdObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/ColdObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/HotObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/SubscriptionLoggable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/HotObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/testing/TestScheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/Set.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isObject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isDate.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/FastMap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isPromise.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/FastMap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/Map.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/tryCatch.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/not.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isArray.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/Immediate.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/ArgumentOutOfRangeError.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/EmptyError.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isFunction.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/UnsubscriptionError.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/tryCatch.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/subscribeToResult.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isDate.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/subscribeToResult.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isFunction.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isNumeric.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/AnimationFrame.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/toSubscriber.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/MapPolyfill.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/noop.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/errorObject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/Map.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/toSubscriber.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/Set.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isObject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isScheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/root.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/TimeoutError.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/MapPolyfill.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isPromise.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/assign.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/assign.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isScheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/AnimationFrame.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/ObjectUnsubscribedError.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isArray.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/ArgumentOutOfRangeError.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/applyMixins.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/errorObject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/root.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/applyMixins.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/isNumeric.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/UnsubscriptionError.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/Immediate.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/ObjectUnsubscribedError.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/noop.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/EmptyError.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/not.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/util/TimeoutError.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/IntervalObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/EmptyObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/bindCallback.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/RangeObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/pairs.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/FromEventObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/forkJoin.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/fromEventPattern.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ErrorObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ArrayObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/TimerObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/fromPromise.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/EmptyObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ConnectableObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/interval.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/FromEventPatternObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/PairsObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/timer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/bindNodeCallback.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/merge.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/bindCallback.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/TimerObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/SubscribeOnObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/IfObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/timer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/DeferObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/concat.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/zip.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/using.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/FromEventPatternObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/forkJoin.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/BoundNodeCallbackObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/GenerateObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/range.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ScalarObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ArrayLikeObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/combineLatest.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/NeverObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/PromiseObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ConnectableObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/zip.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/never.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ScalarObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/throw.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/FromObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/empty.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/if.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/defer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/fromEventPattern.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/PairsObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/IteratorObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/bindNodeCallback.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/interval.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/combineLatest.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/concat.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/DeferObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/throw.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/BoundCallbackObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/BoundNodeCallbackObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/UsingObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/range.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/merge.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/GenerateObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/of.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/UsingObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/fromPromise.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/empty.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/from.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/PromiseObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/FromEventObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/pairs.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/NeverObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/RangeObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/fromEvent.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ErrorObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/BoundCallbackObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/defer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/SubscribeOnObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/IteratorObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/of.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ForkJoinObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/IntervalObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ForkJoinObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/never.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/IfObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ArrayObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/ArrayLikeObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/fromEvent.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/FromObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/from.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/if.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/using.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/dom/webSocket.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/dom/ajax.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/dom/AjaxObservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/dom/ajax.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/dom/webSocket.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/dom/AjaxObservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/dom/MiscJSDoc.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/dom/WebSocketSubject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/dom/MiscJSDoc.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/observable/dom/WebSocketSubject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/es6.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/anonymousobserver.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/scheduledobserver.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/observable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/observer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/es5.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/abstractobserver.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/checkedobserver.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/observable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/notification.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/observer-lite.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/notification.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/scheduledobserver.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/es6.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/abstractobserver.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/checkedobserver.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/anonymousobservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/observer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/es5.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/observer-extras.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/observer-lite.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/anonymousobservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/anonymousobserver.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/observer-extras.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/connectableobservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/groupedobservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/groupedobservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/connectableobservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/joins/plan.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/joins/pattern.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/joins/plan.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/joins/pattern.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/mockobserver.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/mockdisposable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/subscription.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/recorded.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/mockobserver.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/recorded.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/reactivetest.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/reactivetest.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/testscheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/subscription.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/testscheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/testing/mockdisposable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/internal/isequal.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/internal/errors.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/internal/priorityqueue.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/internal/bindcallback.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/internal/isequal.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/internal/bindcallback.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/internal/errors.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/internal/util.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/internal/util.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/internal/priorityqueue.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/subjects/replaysubject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/subjects/subject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/subjects/anonymoussubject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/subjects/behaviorsubject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/subjects/behaviorsubject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/subjects/asyncsubject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/subjects/replaysubject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/subjects/anonymoussubject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/subjects/subject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/subjects/asyncsubject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/historicalscheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduler.wrappers.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/currentthreadscheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/currentthreadscheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/defaultscheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/historicalscheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduleperiodicrecursive.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduler.recursive.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduler.periodic.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/virtualtimescheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/immediatescheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduler.periodic.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduler.wrappers.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduler.recursive.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/virtualtimescheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduleditem.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduleditem.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/immediatescheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduleperiodicrecursive.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/scheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/concurrency/defaultscheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/disposables/booleandisposable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/disposables/refcountdisposable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/disposables/booleandisposable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/disposables/compositedisposable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/disposables/disposable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/disposables/compositedisposable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/disposables/refcountdisposable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/disposables/disposable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/pausablebuffered.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/pausable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/controlled.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/pauser.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/pauser.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/pausable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/controlled.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/windowed.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/stopandwait.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/windowed.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/pausablebuffered.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/backpressure/stopandwait.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/last.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/merge.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/interval.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/sequenceequal.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/fromarray.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/filter.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/transduce.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/filter.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/multicast.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/flatmap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/reduce.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/toarray.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skip.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/subscribeon.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takewithtime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/window.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/interval.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/tomap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/distinctuntilchanged.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/catch.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/throttle.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/for.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/tap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/onerrorresumenextproto.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/create.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/startasync.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/if.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/repeat.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/share.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/combinelatestproto.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/flatmaplatest.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/debounce.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/publishvalue.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/sum.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/dowhile.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/sum.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/minby.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/switch.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/single.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/switchfirst.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/retry.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/zipiterable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/windowwithtime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/using.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/withlatestfrom.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/catchproto.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/expand.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/mergeconcat.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/count.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/expand.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/thendo.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/of.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/combinelatest.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/dematerialize.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/concatproto.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/dowhile.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/join.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/let.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/delay.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/observeon.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/publish.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skipuntil.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/create.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/of.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/fromeventpattern.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/generatewithabsolutetime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/isempty.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/jortsort.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/timer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takelastwithtime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/mergedelayerror.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/amb.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/groupby.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takelast.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/start.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/publishvalue.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takeuntil.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/defaultifempty.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takelastbufferwithtime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/repeatproto.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/distinctuntilchanged.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/onerrorresumenext.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/pairs.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/mergeall.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/asobservable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/sharevalue.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/empty.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/start.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/isempty.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/materialize.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/ignoreelements.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/forkjoinproto.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/flatmapwithmaxconcurrent.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/fromnodecallback.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/throw.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/concatall.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/while.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/topromise.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/buffer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/count.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/window.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/topromise.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/jortsortuntil.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/throw.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takelastwithtime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/just.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/empty.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/combinelatest.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/bufferwithtime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/take.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/some.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/groupby.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/flatmap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/bufferwithcount.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/sample.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/find.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/sequenceequal.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takelastbufferwithtime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/fromevent.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/when.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/ambproto.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/combinelatestproto.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/generatewithabsolutetime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/timeout.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takewithtime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takelastbuffer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/frompromise.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/fromcallback.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/timer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skipwhile.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/repeat.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/minby.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/flatmaplatest.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/spawn.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/selectmanyobserver.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/pipe.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/elementat.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/groupbyuntil.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/partition.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/reduce.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/max.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/tap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/pairwise.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/publish.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/ignoreelements.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/map.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/bufferwithtimeorcount.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/singleinstance.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/mergedelayerror.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/fromeventpattern.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skipwithtime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skiplast.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/timeout.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skip.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skiplast.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/flatmapwithmaxconcurrent.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/catchproto.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/using.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/sample.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/take.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/switch.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/concat.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/never.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/debounce.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/forkjoinproto.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/ambproto.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skipuntil.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skipuntilwithtime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/toset.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takeuntil.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skipwhile.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/selectmanyobserver.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/materialize.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/never.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/flatmapfirst.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/min.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skiplastwithtime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/jortsortuntil.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/distinct.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/ofobjectchanges.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/tomap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/startwith.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/groupbyuntil.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/ofarraychanges.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/replay.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/concatmap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/fromevent.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/generatewithrelativetime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/toset.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/indexof.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/concatproto.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/generate.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/case.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/frompromise.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/retrywhen.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/let.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/single.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/subscribeon.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/sharereplay.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/zip.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/replay.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/and.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/bufferwithtimeorcount.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/amb.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/first.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/fromcallback.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/concat.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/average.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/fromnodecallback.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/defaultifempty.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/every.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/join.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/last.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/manyselect.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/groupjoin.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/if.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/for.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/groupjoin.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/mergeall.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/concatall.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/maxby.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/sharereplay.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/pairs.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/startwith.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/retrywhen.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/spawn.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/flatmapfirst.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/timeinterval.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/onerrorresumenextproto.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/share.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/map.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/windowwithtime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/transduce.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/buffer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/thendo.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takeuntilwithtime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/catch.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/switchfirst.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/manyselect.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/windowwithtimeorcount.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/zip.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/finally.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/sharevalue.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skipwithtime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/fromarray.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/distinct.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/timeinterval.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takeuntilwithtime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/dematerialize.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/bufferwithtime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/pairwise.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/pipe.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takelastbuffer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/finally.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/toasync.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/bufferwithcount.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/defer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skiplastwithtime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/skipuntilwithtime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/ofobjectchanges.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/range.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/startasync.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/generatewithrelativetime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/throttle.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/timestamp.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/concatmapobserver.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takelast.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/elementat.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/jortsort.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/singleinstance.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/asobservable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/from.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/defer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/generate.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/windowwithtimeorcount.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/merge.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/find.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/first.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/scan.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/publishlast.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/multicast.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/onerrorresumenext.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/includes.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/withlatestfrom.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/partition.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/min.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/findindex.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/case.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/mergeconcat.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/forkjoin.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/when.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takewhile.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/repeatproto.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/delaysubscription.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/scan.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/toarray.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/concatmap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/findindex.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/maxby.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/pluck.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/delay.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/windowwithcount.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/every.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/some.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/timestamp.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/from.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/concatmapobserver.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/retry.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/average.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/indexof.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/pluck.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/forkjoin.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/and.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/zipiterable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/takewhile.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/ofarraychanges.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/includes.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/toasync.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/while.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/windowwithcount.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/just.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/delaysubscription.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/publishlast.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/observeon.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/max.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/browser-sync/node_modules/rx/ts/core/linq/observable/range.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/generate.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/forkJoin.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/empty.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/timer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/zip.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/zip.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/of.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/fromEvent.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/interval.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/concat.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/concat.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/generate.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/using.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/onErrorResumeNext.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/bindNodeCallback.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/bindCallback.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/race.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/defer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/using.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/throw.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/onErrorResumeNext.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/defer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/fromEventPattern.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/pairs.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/range.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/of.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/if.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/combineLatest.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/merge.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/never.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/fromEventPattern.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/timer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/interval.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/bindCallback.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/bindNodeCallback.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/merge.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/fromEvent.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/from.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/range.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/forkJoin.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/fromPromise.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/fromPromise.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/never.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/if.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/empty.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/combineLatest.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/pairs.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/throw.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/race.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/from.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/dom/ajax.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/dom/ajax.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/dom/webSocket.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/observable/dom/webSocket.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/expand.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/startWith.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/concat.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/windowCount.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/bufferCount.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/delay.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/timeoutWith.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/finally.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/throttle.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/sample.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/mergeAll.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/auditTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/bufferWhen.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/publish.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/subscribeOn.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/filter.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/takeWhile.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/delayWhen.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/toPromise.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/takeUntil.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/bufferTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/distinctUntilKeyChanged.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/every.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/combineLatest.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/find.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/ignoreElements.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/finally.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/audit.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/map.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/mergeMapTo.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/max.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/debounceTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/mergeScan.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/timeoutWith.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/concatMap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/scan.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/partition.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/switchMapTo.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/skipWhile.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/toPromise.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/concat.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/distinctUntilKeyChanged.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/concatMapTo.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/window.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/windowCount.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/retryWhen.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/windowWhen.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/bufferToggle.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/do.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/toArray.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/zipAll.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/skipWhile.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/partition.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/windowToggle.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/bufferTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/max.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/multicast.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/sampleTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/find.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/take.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/mergeMap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/let.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/zip.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/switchMap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/combineAll.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/distinct.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/race.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/ignoreElements.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/takeUntil.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/subscribeOn.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/min.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/take.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/skip.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/pairwise.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/isEmpty.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/concatAll.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/merge.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/publishBehavior.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/concatMap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/multicast.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/min.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/withLatestFrom.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/dematerialize.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/skipUntil.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/concatMapTo.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/filter.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/count.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/dematerialize.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/do.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/defaultIfEmpty.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/publishBehavior.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/timestamp.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/single.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/share.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/last.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/window.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/mergeAll.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/retry.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/first.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/timeout.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/publish.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/buffer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/race.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/switch.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/defaultIfEmpty.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/auditTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/groupBy.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/skipUntil.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/first.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/switchMapTo.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/findIndex.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/repeat.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/switch.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/reduce.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/pluck.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/toArray.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/retryWhen.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/bufferWhen.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/observeOn.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/bufferToggle.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/exhaust.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/combineLatest.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/takeLast.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/retry.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/publishLast.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/combineAll.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/isEmpty.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/withLatestFrom.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/concatAll.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/exhaustMap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/mergeScan.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/publishReplay.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/zip.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/delay.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/every.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/pluck.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/skip.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/count.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/catch.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/mergeMap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/buffer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/exhaustMap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/takeWhile.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/repeatWhen.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/timeout.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/takeLast.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/catch.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/throttleTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/distinct.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/sequenceEqual.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/observeOn.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/onErrorResumeNext.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/zipAll.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/share.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/merge.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/timeInterval.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/let.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/distinctUntilChanged.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/pairwise.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/delayWhen.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/distinctUntilChanged.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/throttleTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/sequenceEqual.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/publishReplay.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/last.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/findIndex.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/expand.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/repeatWhen.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/debounce.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/windowTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/repeat.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/bufferCount.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/timestamp.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/sample.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/startWith.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/scan.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/reduce.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/audit.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/windowToggle.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/windowWhen.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/onErrorResumeNext.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/publishLast.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/windowTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/exhaust.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/single.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/sampleTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/mapTo.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/throttle.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/elementAt.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/mergeMapTo.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/timeInterval.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/debounce.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/materialize.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/mapTo.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/elementAt.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/map.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/materialize.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/debounceTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/groupBy.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/add/operator/switchMap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/karma/config.tpl.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/mix/rollup-mix.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/mix/rollup-mix.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/node/fs.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/node/node.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/node/events.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/node/fs.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/node/events.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/node/node.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/extra/bluebird.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/extra/bluebird.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/mocha/mocha.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/mocha/mocha.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/common/timers.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/common/utils.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/common/utils.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/common/timers.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/rollup-main.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/rollup-main.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/browser.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/webapis-notification.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/event-target.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/webapis-media-query.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/webapis-media-query.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/webapis-notification.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/register-element.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/property-descriptor.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/register-element.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/browser.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/define-property.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/websocket.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/property-descriptor.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/websocket.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/event-target.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/browser/define-property.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/jasmine/jasmine.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/jasmine/jasmine.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/fake-async-test.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/long-stack-trace.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/sync-test.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/task-tracking.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/async-test.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/proxy.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/sync-test.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/task-tracking.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/fake-async-test.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/async-test.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/wtf.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/wtf.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/proxy.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/zone.js/lib/zone-spec/long-stack-trace.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rx/ts/rx.backpressure-tests.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rx/ts/rx.async-tests.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rx/ts/rx.backpressure-tests.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rx/ts/rx.async-tests.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/ReplaySubject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/SubjectSubscription.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Observer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/AsyncSubject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/ReplaySubject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Scheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/OuterSubscriber.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/SubjectSubscription.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Observable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Subscription.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Rx.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Rx.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/AsyncSubject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Notification.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Subscription.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Subject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Notification.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/MiscJSDoc.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Subscriber.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Operator.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/BehaviorSubject.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/InnerSubscriber.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Subject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Operator.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Observable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Observer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/BehaviorSubject.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Scheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/InnerSubscriber.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/MiscJSDoc.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/OuterSubscriber.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/Subscriber.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/symbol/rxSubscriber.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/symbol/iterator.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/symbol/rxSubscriber.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/symbol/observable.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/symbol/iterator.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/symbol/observable.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/expand.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/startWith.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/concat.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/windowCount.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/bufferCount.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/delay.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/timeoutWith.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/finally.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/throttle.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/sample.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/mergeAll.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/auditTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/bufferWhen.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/publish.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/subscribeOn.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/filter.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/takeWhile.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/delayWhen.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/toPromise.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/takeUntil.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/bufferTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/distinctUntilKeyChanged.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/every.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/combineLatest.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/find.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/ignoreElements.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/finally.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/audit.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/map.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/mergeMapTo.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/max.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/debounceTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/mergeScan.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/timeoutWith.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/concatMap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/scan.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/partition.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/switchMapTo.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/skipWhile.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/toPromise.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/concat.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/distinctUntilKeyChanged.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/concatMapTo.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/window.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/windowCount.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/retryWhen.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/windowWhen.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/bufferToggle.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/do.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/toArray.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/zipAll.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/skipWhile.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/partition.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/windowToggle.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/bufferTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/max.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/multicast.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/sampleTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/find.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/take.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/mergeMap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/let.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/zip.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/switchMap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/combineAll.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/distinct.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/race.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/ignoreElements.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/takeUntil.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/subscribeOn.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/min.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/take.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/skip.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/pairwise.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/isEmpty.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/concatAll.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/merge.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/publishBehavior.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/concatMap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/multicast.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/min.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/withLatestFrom.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/dematerialize.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/skipUntil.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/concatMapTo.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/filter.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/count.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/dematerialize.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/do.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/defaultIfEmpty.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/publishBehavior.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/timestamp.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/single.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/share.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/last.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/window.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/mergeAll.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/retry.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/first.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/timeout.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/publish.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/buffer.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/race.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/switch.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/defaultIfEmpty.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/auditTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/groupBy.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/skipUntil.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/first.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/switchMapTo.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/findIndex.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/repeat.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/switch.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/reduce.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/pluck.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/toArray.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/retryWhen.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/bufferWhen.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/observeOn.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/bufferToggle.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/exhaust.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/combineLatest.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/takeLast.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/retry.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/publishLast.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/combineAll.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/isEmpty.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/withLatestFrom.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/concatAll.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/exhaustMap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/mergeScan.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/publishReplay.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/zip.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/delay.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/every.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/pluck.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/skip.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/count.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/catch.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/mergeMap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/buffer.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/exhaustMap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/takeWhile.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/repeatWhen.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/timeout.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/takeLast.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/catch.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/throttleTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/distinct.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/sequenceEqual.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/observeOn.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/onErrorResumeNext.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/zipAll.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/share.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/merge.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/timeInterval.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/let.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/distinctUntilChanged.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/pairwise.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/delayWhen.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/distinctUntilChanged.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/throttleTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/sequenceEqual.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/publishReplay.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/last.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/findIndex.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/expand.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/repeatWhen.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/debounce.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/windowTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/repeat.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/bufferCount.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/timestamp.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/sample.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/startWith.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/scan.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/reduce.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/audit.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/windowToggle.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/windowWhen.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/onErrorResumeNext.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/publishLast.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/windowTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/exhaust.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/single.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/sampleTime.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/mapTo.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/throttle.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/elementAt.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/mergeMapTo.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/timeInterval.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/debounce.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/materialize.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/mapTo.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/elementAt.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/map.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/materialize.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/debounceTime.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/groupBy.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/operator/switchMap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AsyncAction.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/VirtualTimeScheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/animationFrame.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/queue.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AsapScheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/animationFrame.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AnimationFrameScheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AsyncScheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/QueueScheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/QueueScheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AnimationFrameAction.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AsapScheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/asap.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AsyncScheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AsapAction.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AsapAction.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AnimationFrameScheduler.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/QueueAction.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AsyncAction.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/VirtualTimeScheduler.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/asap.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/async.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/AnimationFrameAction.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/Action.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/Action.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/queue.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/async.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/rxjs/src/scheduler/QueueAction.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/tslint/scripts/buildDocs.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/bs-recipes/recipes/webpack.typescript.react/src/main.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/bs-recipes/recipes/webpack.typescript.react/src/main.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/bs-recipes/recipes/webpack.typescript.react/src/components/HelloWorld.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/bs-recipes/recipes/webpack.typescript.react/src/components/HelloWorld.js" />
+        <option value="$PROJECT_DIR$/client/src/main.js.map" />
+        <option value="$PROJECT_DIR$/client/src/main.js" />
+        <option value="$PROJECT_DIR$/client/src/app/app.component.js" />
+        <option value="$PROJECT_DIR$/client/src/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/client/src/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/client/src/app/app.module.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/specPageObjects.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/spec.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/angularPage.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/specPageObjects.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/plugins.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/plugins.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/angularPage.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/confPageObjects.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/conf.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/confPageObjects.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/spec.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/conf.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/asyncAwait/conf.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/asyncAwait/spec.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/asyncAwait/conf.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/protractor/exampleTypescript/asyncAwait/spec.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/bs-recipes/recipes/webpack.typescript/src/main.js.map" />
+        <option value="$PROJECT_DIR$/client/node_modules/bs-recipes/recipes/webpack.typescript/src/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
