@@ -6,20 +6,21 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 var core_1 = require("@angular/core");
-/*
-    It's our entry component
+/**
+ * Created by riadh on 21/04/2017.
  */
-var AppComponent = (function () {
-    function AppComponent() {
+var LinkFormatPipe = (function () {
+    function LinkFormatPipe() {
     }
-    return AppComponent;
+    LinkFormatPipe.prototype.transform = function (value) {
+        return "http://image.tmdb.org/t/p/w185/" + value;
+    };
+    return LinkFormatPipe;
 }());
-AppComponent = __decorate([
-    core_1.Component({
-        moduleId: module.id,
-        selector: 'my-app',
-        templateUrl: 'app.component.html'
+LinkFormatPipe = __decorate([
+    core_1.Pipe({
+        name: 'format_link',
     })
-], AppComponent);
-exports.AppComponent = AppComponent;
-//# sourceMappingURL=app.component.js.map
+], LinkFormatPipe);
+exports.LinkFormatPipe = LinkFormatPipe;
+//# sourceMappingURL=link.pipe.js.map

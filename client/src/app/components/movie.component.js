@@ -10,25 +10,59 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require("@angular/core");
 var dao_service_1 = require("../services/dao.service");
+var shared_movie_1 = require("../shared/shared.movie");
 var MovieComponent = (function () {
-    function MovieComponent(_service) {
-        this._service = _service;
-    }
-    MovieComponent.prototype.ngAfterContentInit = function () {
-        console.log(this.films);
-    };
-    MovieComponent.prototype.ngOnInit = function () {
+    function MovieComponent(_service, _sharedmovie) {
         var _this = this;
+        this._service = _service;
+        this._sharedmovie = _sharedmovie;
+        this.films_details = [];
+        this.busy = true;
+        // Get the movie list from our database
         this._service.getAll('http://localhost:4000/api/movies').subscribe(function (data) {
             _this.films = data;
-            _this.callDetailsFilm();
+            _this.callFilmDetails();
+        });
+    }
+    MovieComponent.prototype.ngOnInit = function () {
+    };
+    MovieComponent.prototype.callFilmDetails = function () {
+        var _this = this;
+        // for each movie in the database get all information about it from themoviedb api
+        this.films.forEach(function (mv) {
+            _this._service
+                .getAll("https://api.themoviedb.org/3/movie/" + mv.movieid + "?api_key=b48982d14dadfead21ac591acca20027")
+                .subscribe(function (data) {
+                _this.films_details.push(data);
+                console.log(data);
+                _this.busy = false;
+            });
         });
     };
-    MovieComponent.prototype.callDetailsFilm = function () {
-        this._service.getAll('https://api.themoviedb.org/3/movie/399019?api_key=b48982d14dadfead21ac591acca20027')
-            .subscribe(function (data) {
-            console.log(data);
-        });
+    MovieComponent.prototype.getGenre = function (genre_id) {
+        this.genre_id = genre_id;
+    };
+    MovieComponent.prototype.getProductionCountry = function (country_id) {
+        this.country_id = country_id;
+    };
+    MovieComponent.prototype.ngOnDestroy = function () {
+        var _this = this;
+        // if the user has choose a filter (genre, country production)
+        // we display all movies that match this filter in a second page
+        var temp_list = [];
+        if (this.genre_id) {
+            temp_list = this.films_details.filter(function (mv) {
+                var ls_genres = mv.genres.filter(function (gr) { return gr.id == _this.genre_id; });
+                return ls_genres.length == 0 ? false : true;
+            });
+        }
+        else if (this.country_id) {
+            temp_list = this.films_details.filter(function (mv) {
+                var ls_country = mv.production_countries.filter(function (pc) { return pc.name == _this.country_id; });
+                return ls_country.length == 0 ? false : true;
+            });
+        }
+        this._sharedmovie.movies = temp_list;
     };
     return MovieComponent;
 }());
@@ -38,7 +72,7 @@ MovieComponent = __decorate([
         moduleId: module.id,
         templateUrl: 'movie.component.html'
     }),
-    __metadata("design:paramtypes", [dao_service_1.DaoService])
+    __metadata("design:paramtypes", [dao_service_1.DaoService, shared_movie_1.SharedMovie])
 ], MovieComponent);
 exports.MovieComponent = MovieComponent;
 //# sourceMappingURL=movie.component.js.map

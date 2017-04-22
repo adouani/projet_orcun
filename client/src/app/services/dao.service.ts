@@ -4,6 +4,8 @@ import 'rxjs/add/operator/map'
 import {Injectable} from "@angular/core";
 
 
+// This class query our database
+
 @Injectable()
 export class DaoService
 {

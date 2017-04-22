@@ -8,25 +8,26 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-var http_1 = require("@angular/http");
-require("rxjs/add/operator/map");
 var core_1 = require("@angular/core");
-// This class query our database
-var DaoService = (function () {
-    function DaoService(_http) {
-        this._http = _http;
+var shared_movie_1 = require("../shared/shared.movie");
+var MovieGenreComponent = (function () {
+    function MovieGenreComponent(_sharedmovie) {
+        this._sharedmovie = _sharedmovie;
+        this.films_details = [];
+        this.films_details = _sharedmovie.movies;
+        console.log(this.films_details);
     }
-    DaoService.prototype.getAll = function (url) {
-        return this._http.get(url)
-            .map(function (response) {
-            return response.json();
-        });
+    MovieGenreComponent.prototype.ngOnInit = function () {
     };
-    return DaoService;
+    return MovieGenreComponent;
 }());
-DaoService = __decorate([
-    core_1.Injectable(),
-    __metadata("design:paramtypes", [http_1.Http])
-], DaoService);
-exports.DaoService = DaoService;
-//# sourceMappingURL=dao.service.js.map
+MovieGenreComponent = __decorate([
+    core_1.Component({
+        selector: 'mv-genre-comp',
+        moduleId: module.id,
+        templateUrl: 'movie.genre.component.html'
+    }),
+    __metadata("design:paramtypes", [shared_movie_1.SharedMovie])
+], MovieGenreComponent);
+exports.MovieGenreComponent = MovieGenreComponent;
+//# sourceMappingURL=movie.genre.component.js.map

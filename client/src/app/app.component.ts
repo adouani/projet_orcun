@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
-
+/*
+    It's our entry component
+ */
 @Component({
   moduleId : module.id,
   selector: 'my-app',
@@ -8,3 +10,4 @@ import { Component } from '@angular/core';
 export class AppComponent  {
 
 }
+

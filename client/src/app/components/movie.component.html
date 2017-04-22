@@ -1,10 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-</body>
-</html>
+<span *ngIf="busy">
+  <h3>Loading...</h3>
+</span>
+<div class="container" *ngIf="!busy">
+      <div class="col-md-4" *ngFor="let movie of films_details">
+        <div class="thumbnail">
+          <img [src]="movie.poster_path | format_link">
+          <div class="caption">
+            <h4 class="pull-right">
+              {{movie.release_date}}
+            </h4>
+            <h4>{{movie.title}}</h4>
+            <p><b>Production: </b><br>
+              <ng-container *ngFor="let country of movie.production_countries">
+                <a [routerLink]="['/movie-details']"  (click)="getProductionCountry(country.name)">
+                  <span class="label label-primary"> {{country.name}} </span></a> &nbsp;
+              </ng-container>
+            </p>
+            <p><b>Description: </b>{{ movie.overview | limitChar:30}}...</p>
+            <p><b>Popularity: </b>{{movie.popularity}}</p>
+            <p><b>Budget: </b>{{ movie.budget | currency}}</p>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <p class="pull-right">{{ movie.budget | currency}} </p>
+            <div class="clearfix"></div>
+            <ng-container *ngFor="let genre of movie.genres">
+              <a [routerLink]="['/movie-details']"  (click)="getGenre(genre.id)">
+                <span class="label label-success"> {{genre.name}} </span>
+              </a> &nbsp;
+            </ng-container>
+        </div>
+      </div>
+</div>

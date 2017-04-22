@@ -11,6 +11,12 @@ var app_component_1 = require("./app.component");
 var dao_service_1 = require("./services/dao.service");
 var http_1 = require("@angular/http");
 var movie_component_1 = require("./components/movie.component");
+var truncate_pipe_1 = require("./shared/truncate.pipe");
+var link_pipe_1 = require("./shared/link.pipe");
+var shared_movie_1 = require("./shared/shared.movie");
+var movie_genre_component_1 = require("./components/movie.genre.component");
+var movie_routes_1 = require("./routes/movie.routes");
+var router_1 = require("@angular/router");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -18,10 +24,11 @@ var AppModule = (function () {
 }());
 AppModule = __decorate([
     core_1.NgModule({
-        imports: [platform_browser_1.BrowserModule, http_1.HttpModule],
-        declarations: [app_component_1.AppComponent, movie_component_1.MovieComponent],
+        imports: [platform_browser_1.BrowserModule, http_1.HttpModule, router_1.RouterModule, movie_routes_1.myapp_routes],
+        declarations: [app_component_1.AppComponent, movie_component_1.MovieComponent, movie_genre_component_1.MovieGenreComponent,
+            link_pipe_1.LinkFormatPipe, truncate_pipe_1.TruncatePipe],
         bootstrap: [app_component_1.AppComponent],
-        providers: [dao_service_1.DaoService]
+        providers: [dao_service_1.DaoService, shared_movie_1.SharedMovie]
     })
 ], AppModule);
 exports.AppModule = AppModule;
