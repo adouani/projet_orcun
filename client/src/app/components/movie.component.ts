@@ -17,6 +17,11 @@ export class MovieComponent implements OnInit, OnDestroy
   busy:boolean = true;
   country_id : string;
   genre_id : number;
+  movie_id:number;
+  setMovieInfo(id:number)
+  {
+    this.movie_id=id;
+  }
   ngOnInit(): void {
   }
   constructor(private _service:DaoService, private _sharedmovie : SharedMovie) {
@@ -64,6 +69,10 @@ export class MovieComponent implements OnInit, OnDestroy
         let ls_country = mv.production_countries.filter(pc => pc.name == this.country_id);
         return ls_country.length ==0 ? false:true;
       })
+    }
+    else if (this.movie_id)
+    {
+      temp_list = this.films_details.filter(mv => mv.id == this.movie_id);
     }
     this._sharedmovie.movies = temp_list;
   }

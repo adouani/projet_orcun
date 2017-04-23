@@ -8,3 +8,4 @@ export class SharedMovie
 {
   movies:FilmDetail[];
 }
+

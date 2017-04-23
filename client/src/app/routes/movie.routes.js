@@ -5,6 +5,7 @@
 var router_1 = require("@angular/router");
 var movie_component_1 = require("../components/movie.component");
 var movie_genre_component_1 = require("../components/movie.genre.component");
+var movie_details_component_1 = require("../components/movie.details.component");
 /**
  * Created by riadh on 18/04/2017.
  */
@@ -18,6 +19,9 @@ var routes = [
     },
     {
         path: 'movie-details', component: movie_genre_component_1.MovieGenreComponent
+    },
+    {
+        path: 'movie-info', component: movie_details_component_1.MovieInformation
     },
     {
         path: '*', redirectTo: 'movies', pathMatch: 'full'

@@ -8,6 +8,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
+Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = require("@angular/core");
 var dao_service_1 = require("../services/dao.service");
 var shared_movie_1 = require("../shared/shared.movie");
@@ -24,6 +25,9 @@ var MovieComponent = (function () {
             _this.callFilmDetails();
         });
     }
+    MovieComponent.prototype.setMovieInfo = function (id) {
+        this.movie_id = id;
+    };
     MovieComponent.prototype.ngOnInit = function () {
     };
     MovieComponent.prototype.callFilmDetails = function () {
@@ -61,6 +65,9 @@ var MovieComponent = (function () {
                 var ls_country = mv.production_countries.filter(function (pc) { return pc.name == _this.country_id; });
                 return ls_country.length == 0 ? false : true;
             });
+        }
+        else if (this.movie_id) {
+            temp_list = this.films_details.filter(function (mv) { return mv.id == _this.movie_id; });
         }
         this._sharedmovie.movies = temp_list;
     };

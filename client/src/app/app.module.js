@@ -17,6 +17,7 @@ var shared_movie_1 = require("./shared/shared.movie");
 var movie_genre_component_1 = require("./components/movie.genre.component");
 var movie_routes_1 = require("./routes/movie.routes");
 var router_1 = require("@angular/router");
+var movie_details_component_1 = require("./components/movie.details.component");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -26,7 +27,7 @@ AppModule = __decorate([
     core_1.NgModule({
         imports: [platform_browser_1.BrowserModule, http_1.HttpModule, router_1.RouterModule, movie_routes_1.myapp_routes],
         declarations: [app_component_1.AppComponent, movie_component_1.MovieComponent, movie_genre_component_1.MovieGenreComponent,
-            link_pipe_1.LinkFormatPipe, truncate_pipe_1.TruncatePipe],
+            link_pipe_1.LinkFormatPipe, movie_details_component_1.MovieInformation, truncate_pipe_1.TruncatePipe],
         bootstrap: [app_component_1.AppComponent],
         providers: [dao_service_1.DaoService, shared_movie_1.SharedMovie]
     })

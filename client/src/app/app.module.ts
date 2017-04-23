@@ -10,11 +10,12 @@ import {SharedMovie} from "./shared/shared.movie";
 import {MovieGenreComponent} from "./components/movie.genre.component";
 import {myapp_routes} from "./routes/movie.routes";
 import {RouterModule} from "@angular/router";
+import {MovieInformation} from "./components/movie.details.component";
 
 @NgModule({
   imports:      [ BrowserModule, HttpModule, RouterModule, myapp_routes ],
   declarations: [ AppComponent, MovieComponent, MovieGenreComponent,
-    LinkFormatPipe, TruncatePipe],
+    LinkFormatPipe, MovieInformation, TruncatePipe],
   bootstrap:    [ AppComponent ],
   providers : [DaoService, SharedMovie]
 })

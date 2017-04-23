@@ -9,7 +9,9 @@
             <h4 class="pull-right">
               {{movie.release_date}}
             </h4>
-            <h4>{{movie.title}}</h4>
+            <h4><a
+              [routerLink] = "['/movie-info']"
+            (click) = "setMovieInfo(movie.id)">{{movie.title}}</a></h4>
             <p><b>Production: </b><br>
               <ng-container *ngFor="let country of movie.production_countries">
                 <a [routerLink]="['/movie-details']"  (click)="getProductionCountry(country.name)">

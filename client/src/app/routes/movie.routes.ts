@@ -4,6 +4,7 @@
 import {RouterModule, Routes} from "@angular/router";
 import {MovieComponent} from "../components/movie.component";
 import {MovieGenreComponent} from "../components/movie.genre.component";
+import {MovieInformation} from "../components/movie.details.component";
 /**
  * Created by riadh on 18/04/2017.
  */
@@ -20,6 +21,9 @@ const routes:Routes = [
   },
   {
     path:'movie-details', component : MovieGenreComponent
+  },
+  {
+    path:'movie-info', component : MovieInformation
   },
   {
     path:'*',redirectTo:'movies', pathMatch:'full'
